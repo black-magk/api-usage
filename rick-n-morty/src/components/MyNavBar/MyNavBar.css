@@ -1,0 +1,38 @@
+#LinkCustom {
+   
+    background-color: rgb(255, 255, 255); 
+    color: black; 
+    font-family: 'Andale Mono', monospace;
+    font-weight: bold;
+    text-decoration: none;
+}
+#LinkCustom:hover {
+    background-color: rgb(0, 0, 0); 
+    color: white; 
+}
+
+#LinkColumn {
+    height: 100%;
+    
+}
+
+#LinkRow {
+ 
+}
+
+#LogoImg {
+    margin-left: 10px;
+    padding: 10px;
+}
+
+
+#SearchBarContainer {
+
+    display: flex;
+    justify-content: end;
+}
+
+
+#TwentyFiveDiv {
+   
+}

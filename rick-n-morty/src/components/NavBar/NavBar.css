@@ -1,0 +1,21 @@
+
+
+
+#NavContainer {
+width: 100vw;
+background-color: aqua;
+display: flex;
+flex-direction: row;
+
+}
+
+ul {
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+}
+li {
+
+    
+}

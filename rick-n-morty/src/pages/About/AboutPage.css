@@ -1,0 +1,12 @@
+#SearchBarContainer {
+
+    display: flex;
+    justify-content: end;
+}
+
+
+#TwentyFiveDiv {
+   margin-right: 10%;
+    width: 300px;
+    
+}
